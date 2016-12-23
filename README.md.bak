@@ -1,4 +1,3 @@
-
 ![cmd-markdown-logo](https://raw.githubusercontent.com/gaojiyong/admin_xwc/master/web/adminx/images/tea.png)
 # 欢迎使用 夏午茶 后台管理系统
 
@@ -23,6 +22,7 @@
 ## 安装
 ### 1. sql文件 web/admin_xwc.sql
 ### 2. 上传配置 config/params.php
+### 3. 账号admin 密码123456
 
 相关截图
 
@@ -33,7 +33,5 @@
 ![cmd-markdown-logo](https://raw.githubusercontent.com/gaojiyong/admin_xwc/master/doc/article_list2.jpg)
 ![cmd-markdown-logo](https://raw.githubusercontent.com/gaojiyong/admin_xwc/master/doc/article_add.jpg)
 
-
-作者： gaojiyong
-QQ ： 624288876
-2016 年 12月 23日
+ - 作者： gaojiyong
+ - QQ ： 624288876
